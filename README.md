@@ -1,2 +1,2 @@
-# jsrocket
+# test
 launch rocket with javascript
